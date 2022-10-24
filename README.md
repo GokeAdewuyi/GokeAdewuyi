@@ -46,10 +46,9 @@ Here are some ideas to get you started:
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-  
-|![](https://img.shields.io/badge/Web%20Developmment-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Database%20Management-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/-Frontend%20Development-blue)|![](https://img.shields.io/badge/API%20Development-red?style=for-the-badge)|
+|![](https://img.shields.io/badge/-API%20Development-lightgrey)|![](https://img.shields.io/badge/Web%20Developmment-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Database%20Management-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/-Frontend%20Development-blue)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/PHP-blue?style=for-the-badge)|![](https://img.shields.io/badge/DB-Application%20Optimization-blue?style=for-the-badge)|![](https://img.shields.io/badge/-MySQL-orange)|
+|![](https://img.shields.io/badge/PHP-blue?style=for-the-badge)|![](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)|![](https://img.shields.io/badge/-JavaScript-orange)|
 |![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
 <Br>
